@@ -1,0 +1,65 @@
+.holdings-logo {
+    max-width: 50%;
+    width: 22em;
+    background-color: rgba(255,250,240,0.3);
+}
+
+.holdings-logo-menue {
+    max-width: 50%;
+    width: 5em;
+}
+
+.brand-logo {
+    max-width: 45%;
+    width: 18em;
+    background-color: rgba(255,250,240,0.3);
+    margin: 2em
+}
+
+.fixed-nav {
+    position: fixed;
+    background-color: rgba(0,0,0,0.2);
+    padding-bottom: 9px;
+    padding-left: 9px;
+    padding-right: 18px;
+    margin-right: -25px;
+}
+
+.service-icon {
+    height: 6em;
+    width: 6em;
+}
+
+.service-menue-icon {
+    fill: white;
+    width: 3em;
+    height: 3em;
+    margin-bottom: -0.5em;
+}
+
+.services-header {
+    height: 20em !important;
+
+}
+
+.pd-bottom-0 {
+    padding-bottom: 0; 
+}
+
+/* .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  } */
